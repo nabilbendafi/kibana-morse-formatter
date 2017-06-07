@@ -5,6 +5,8 @@ This is a plugin for Kibana 5+. Has been developed and tested on Kibana 5.2.0 ve
 
 ![Screenshot](https://raw.githubusercontent.com/nabilbendafi/kibana-morse-formatter/master/images/morse.jpg)
 
+Actually, this is not really a helpful plugin. But, who cares !
+
 ### Usage
 Installation steps:
 ```
@@ -29,6 +31,7 @@ Under _Management_ > _Index Patterns_:
 
 ### Screenshots
 ![Screenshot](https://raw.githubusercontent.com/nabilbendafi/kibana-morse-formatter/master/images/configuration.jpg)
+![Screenshot](https://raw.githubusercontent.com/nabilbendafi/kibana-morse-formatter/master/images/index_pattern.jpg)
 
 ### Contributions
 Anyone is welcome to contribute to my project. There are various ways you can contribute:
