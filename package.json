@@ -4,6 +4,7 @@
   "description": "Field formatter plugin for Kibana that translates text into morse code",
   "url" : "https://github.com/nabilbendafi/kibana-morse-formatter/issues",
   "author": "Nabil Bendafi <nabil@bendafi.fr>",
+  "license": "Apache-2.0",
   "kibana": {
     "version": "5.2.0"
   },
