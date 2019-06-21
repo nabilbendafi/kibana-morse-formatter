@@ -17,7 +17,7 @@ $ npm install
 ```
 or 
 ```
-$ bin/kibana-plugin install https://github.com/nabilbendafi/kibana-morse-formatter/releases/download/v1.0.0/kibana-morse-formatter-1.0.0.zip
+$ bin/kibana-plugin install https://github.com/nabilbendafi/kibana-morse-formatter/releases/download/v0.0.2/kibana-morse-formatter-0.0.2.zip
 ```
 
 Unistall:
